@@ -1,0 +1,6 @@
+[profile.release]
+codegen-units = 1
+lto = true
+
+[build]
+target = "aarch64-linux-android"
